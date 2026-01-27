@@ -15,16 +15,4 @@ Jeddah, Saudi Arabia
 This course will cover the following topics:  
 
 - [Introduction](slides/lecture_1.html)
-- [Introduction to atomic structure and isotopes](slides/lecture_2.html)
-- [Isotopic abundances and variations in nature](slides/lecture_3.html)
-- [Radioactive decay: types, decay laws, and half-life](slides/lecture_4.html)
-- [Principles of mass spectrometry](slides/lecture_13.html)
-- [Isotope Fractionation Processes](slides/lecture_5.html)
-- [Radioactive Decay Series](slides/lecture_6.html)
-- [Geochronological Principles and Methods](slides/lecture_7.html)
-- [Beta Decay Systems in Geochronology](slides/lecture_8.html)
-- [Rb-Sr method](slides/lecture_14.html)
-- [Sm-Nd, K-Ar and Ar-Ar geochronology](slides/lecture_9.html)
-- [Uranium Decay Series and Disequilibrium](slides/lecture_10.html)
-- [U-Pb dating method](slides/lecture_11.html)
-- [Pb-Pb method](slides/lecture_12.html)
+
