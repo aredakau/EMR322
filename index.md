@@ -15,4 +15,4 @@ Jeddah, Saudi Arabia
 This course will cover the following topics:  
 
 - [Introduction](slides/lecture_1.html)
-
+- [The Arabian Shield in the Supercontinent Cycle](slides/lecture_2.html)
