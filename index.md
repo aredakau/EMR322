@@ -16,4 +16,5 @@ This course will cover the following topics:
 
 - [Introduction](slides/lecture_1.html)
 - [The Arabian Shield in the Supercontinent Cycle](slides/lecture_2.html)
+- [Terranes and Crustal Assembly of the Arabian Shield](slides/lecture_4.html)
 - [The Arabian Shield Lithostratigraphic and Lithodemic Code](slides/lecture_3.html)
