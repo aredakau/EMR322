@@ -20,3 +20,4 @@ This course will cover the following topics:
 - [The Arabian Shield Lithostratigraphic and Lithodemic Code](slides/lecture_3.html)
 - [The First Classification of the Arabian Shield Rocks](slides/lecture_5.html)
 - [The Second Classification of the Arabian Shield Rocks](slides/lecture_6.html)
+- [The Third Classification of the Arabian Shield Rocks](slides/lecture_7.html)
