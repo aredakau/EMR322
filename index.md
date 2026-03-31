@@ -21,3 +21,4 @@ This course will cover the following topics:
 - [The First Classification of the Arabian Shield Rocks](slides/lecture_5.html)
 - [The Second Classification of the Arabian Shield Rocks](slides/lecture_6.html)
 - [The Third Classification of the Arabian Shield Rocks](slides/lecture_7.html)
+- [Layered Rocks of the Arabian Shield](slides/lecture_8.html)
