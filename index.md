@@ -22,3 +22,4 @@ This course will cover the following topics:
 - [The Second Classification of the Arabian Shield Rocks](slides/lecture_6.html)
 - [The Third Classification of the Arabian Shield Rocks](slides/lecture_7.html)
 - [Layered Rocks of the Arabian Shield](slides/lecture_8.html)
+- [Pan-African tectonism and major structural elements](slides/lecture_9.html)
