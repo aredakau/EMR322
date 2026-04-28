@@ -24,3 +24,4 @@ This course will cover the following topics:
 - [Layered Rocks of the Arabian Shield](slides/lecture_8.html)
 - [Pan-African tectonism and major structural elements](slides/lecture_9.html)
 - [Plutonic rocks of the Arabian Shield](slides/lecture_10.html)
+- [Ophiolitic Belts in the Arabian Shield](slides/lecture_11.html)
